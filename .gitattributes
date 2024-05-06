@@ -1,0 +1,2 @@
+case10000.txt filter=lfs diff=lfs merge=lfs -text
+soyword_10000.model filter=lfs diff=lfs merge=lfs -text
